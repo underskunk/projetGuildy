@@ -1,0 +1,27 @@
+BDD_PERSONNE :
+- pseudo
+- mdp
+- guilde
+- points
+- date d'inscription
+- id
+- ami
+
+BDD_GUILDE :
+- nom
+- membre
+- points
+- event
+- rang
+
+BDD_EVENT : 
+- nom
+- date
+- récompense
+- nombre d'équipe
+
+BDD_ROSTER :
+- guilde
+- grade
+- membre
+- event
